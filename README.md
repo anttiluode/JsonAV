@@ -1,5 +1,9 @@
-# JsonAV
-Json language that
+# JSONAV Scheme Showcase
+
+Check out the showcase of my JSONAV Scheme:
+
+[![JSONAV Scheme](https://img.youtube.com/vi/8rQguDzJqqk/0.jpg)](https://youtu.be/8rQguDzJqqk)
+
 # ComfyUI JSON Code For AV Content
 
 [Watch the tutorial on YouTube](https://youtu.be/ygFL213h17k)
