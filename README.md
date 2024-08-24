@@ -97,6 +97,8 @@ Load workflow number two from Joe Conway's YouTube video description:
 
 [Watch Joe Conway's Video](https://www.youtube.com/watch?v=L5OCsK7T3GQ)
 
+[Link to Workflow](https://www.dropbox.com/scl/fi/zbdrov5wzobj9ugu19e6i/Multiple-images-with-different-prompts.json?rlkey=hx0ef94kpxfrftmp1jdwt7mdc&e=1&st=jm2d50ck&dl=0)
+
 (My workflow is available via Dropbox)
 
 Select `generated_prompts.txt` as your prompt choice in the "load prompts from file" option. Change the save image node to the normal save image node so that images are saved to the `comfyui/output/` folder. Make sure the output folder is empty to avoid incorrect images being used in the next step.
