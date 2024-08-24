@@ -112,3 +112,16 @@ In this step, the "organize assets" node will copy the images from `comfyui/outp
 If there are any issues with the `story.json` (such as the AI not understanding the task), this may cause errors.
 
 If everything went smoothly, you should now have your final video in the `final_output` folder.
+
+### Step 6: Run Workflow Number Four
+
+In this next step, we have following foldrs full of content we have to clean: 
+
+tts_output organized_assets comfyui/output
+
+You can do it manually or you can use the workflow number four that does it automatically using cleanupnodeV6.py 
+
+The nodes are under custom_nodes folder in comfyui ui. 
+
+I hope it works for ya.. The code was written by ChatGPT And Claude. 
+
