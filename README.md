@@ -115,7 +115,7 @@ If everything went smoothly, you should now have your final video in the `final_
 
 ### Step 6: Run Workflow Number Four
 
-In this next step, we have following foldrs full of content we have to clean: 
+In this next step, we have following folders full of content we have to clean: 
 
 tts_output organized_assets comfyui/output
 
