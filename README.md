@@ -125,15 +125,8 @@ tts_output organized_assets comfyui/output
 
 You can do it manually or you can use the workflow number four that does it automatically using cleanupnodeV6.py 
 
-### Editing JsonAV content
-
 **Editing JsonAV content**: [https://www.youtube.com/watch?v=f9g2URi1OzY](https://www.youtube.com/watch?v=f9g2URi1OzY)
 
-
-
-The nodes are under custom_nodes folder in comfyui ui. 
-
-
+About the node location in ComfyUI. The nodes are under custom_nodes folder in comfyui ui. 
 
 I hope it works for ya.. The code was written by ChatGPT And Claude. 
-
